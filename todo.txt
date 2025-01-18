@@ -1,0 +1,5 @@
+lägg till sliding bar grejen i bossbattle
+Gör allt snyggare overall - animationer, smooth transitions hitochdit
+
+//overdrive detta
+skriv main.py (Textformat) lite mindre flummigt, bättre skruktur m kommentar för bedömning?
